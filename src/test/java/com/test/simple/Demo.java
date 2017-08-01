@@ -10,7 +10,7 @@ mysuper.getMessage();
 mysubclass.getMessage();
 
 mysuper.setMessage("good one");
-mysubclass.setMessage("good two");
+mysubclass.setMessage("good tw2o");
 
 mysuper.getMessage();
 mysubclass.getMessage();
